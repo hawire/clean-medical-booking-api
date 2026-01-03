@@ -1,0 +1,41 @@
+[33mcommit 86d38ebc0c80e63eedd3ce4cdbb77c7909a9b8e7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Bitania Finoteselam <hanafinoteselam.15@gmail.com>
+Date:   Sat Jan 3 05:46:08 2026 +0300
+
+    Update scheduling endpoints, fix appointment payloads, add Thunder Client request docs
+
+[33mcommit aa2a0819b14018608751cdc984e668daeb96f02e[m
+Author: Bitania Finoteselam <hanafinoteselam.15@gmail.com>
+Date:   Sat Jan 3 03:06:05 2026 +0300
+
+    Implement comprehensive user and appointment management features, including enhanced user roles, clinic and department models, dynamic appointment scheduling, intelligent slot suggestions, and a priority-based waitlist system. Update serializers and views for improved API functionality and integrate dynamic pricing for appointments.
+
+[33mcommit 277e3bb8a9be0088c9dc95084b05746b5c1a15d7[m
+Author: Bitania Finoteselam <hanafinoteselam.15@gmail.com>
+Date:   Mon Dec 29 14:13:45 2025 +0300
+
+    Add README with project overview and setup instructions
+
+[33mcommit 50cf04ba029a91332827da8b4e9fdb85aad2b23a[m
+Author: Bitania Finoteselam <hanafinoteselam.15@gmail.com>
+Date:   Mon Dec 29 14:10:49 2025 +0300
+
+    Phase 4: analytics dashboard + notification stub
+
+[33mcommit 65969c307700096cf54ba768140d93ed5877f868[m
+Author: Bitania Finoteselam <hanafinoteselam.15@gmail.com>
+Date:   Mon Dec 29 14:10:42 2025 +0300
+
+    Phase 3: appointment lifecycle + waitlist
+
+[33mcommit e217cf47e307c1d5fdd8ab0af116d1d75605d6e0[m
+Author: Bitania Finoteselam <hanafinoteselam.15@gmail.com>
+Date:   Mon Dec 29 14:10:35 2025 +0300
+
+    Phase 2: scheduling models + endpoints
+
+[33mcommit e0f49840a0325630b3ff86ced0280a6b20fb0ead[m
+Author: Bitania Finoteselam <hanafinoteselam.15@gmail.com>
+Date:   Mon Dec 29 14:10:17 2025 +0300
+
+    Phase 1: project scaffold + JWT authentication
